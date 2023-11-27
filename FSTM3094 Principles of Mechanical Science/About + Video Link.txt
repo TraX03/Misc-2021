@@ -1,0 +1,18 @@
+For this project, our assignment is to construct a Rube Goldberg machine utilizing basic machines like inclined planes, screws, levers, wedges, pulleys, and wheel and axles. 
+
+
+Machine Demonstration Video:
+https://drive.google.com/file/d/1IJR9vzLlZ3ptcv_Irs7-li2w9C8Ko_rc/view?usp=sharing
+
+Remark: Since I only began compiling the projects in 2023, I've unfortunately lost the paper prototype and progress reports.
+
+
+
+
+
+
+
+
+
+
+
