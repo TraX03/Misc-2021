@@ -1,4 +1,4 @@
-In this course, we're tasked with two assignments: one individual and one group project. The individual assignment involves researching various technology topics. The second assignment, done in groups, requires creating a database, developing an ERD (Entity-Relationship Diagram), and generating scenarios necessitating SQL queries for information retrieval. Additionally, a research report was prepared for assignment 2, but unfortunately, the file has been lost.
+In this course, we're tasked with two assignments: one individual and one group project. The individual assignment involves researching various technology topics. The second assignment, done in groups, requires creating a database using Microsoft Access, developing an ERD (Entity-Relationship Diagram), and generating scenarios necessitating SQL queries for information retrieval. Additionally, a research report was prepared for assignment 2, but unfortunately, the file has been lost.
 
 
 
