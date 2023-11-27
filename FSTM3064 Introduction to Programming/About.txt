@@ -1,4 +1,4 @@
-In this course, we have two assignments: an individual project and a group project, both centered around learning the Java programming language. For the individual assignment, we are required to create coding solutions for four questions and provide a detailed report explaining the flow, using flowcharts and output images. The group assignment involves the development of a mobile app. The group assignment, which I consider to be a large project, is stored in a separate repository named "RightOnTrack-App-Java."
+In this course, we have two assignments: an individual project and a group project, both centred around learning the Java programming language. For the individual assignment, we are required to create coding solutions for four questions and provide a detailed report explaining the flow, using flowcharts and output images. The group assignment involves the development of a mobile app. The group assignment, which I consider to be a large project, is stored in a separate repository named "RightOnTrack-App-Java."
 
 
 
