@@ -1,0 +1,24 @@
+In this project, my assignment was to create a toy for children that aligns with the four stages of cognitive development outlined by Jean Piaget. I built a toy digital 3D model called "Toby and the Magical Tree" using the Blender software.
+
+
+Video Presentation Link:
+https://drive.google.com/file/d/1QeN28PQ4YJTot1hRwokcKOvbAo0GqDBS/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
